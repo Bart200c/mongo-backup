@@ -16,7 +16,7 @@ import (
   "gopkg.in/mgo.v2"
   "gopkg.in/mgo.v2/bson"
   "github.com/pierrec/lz4"
-  "github.com/Dabz/utils"
+  "mongo-backup/utils"
 )
 
 const (

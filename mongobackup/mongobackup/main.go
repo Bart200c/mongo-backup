@@ -11,7 +11,7 @@
 package main
 
 import (
-  "github.com/Dabz/mongobackup"
+  "mongo-backup/mongobackup"
   "fmt"
 )
 

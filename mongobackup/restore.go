@@ -15,7 +15,7 @@ import (
   "strings"
   "strconv"
   "time"
-  "github.com/Dabz/utils"
+  "mongo-backup/utils"
 )
 
 // perform the restore & dump the oplog if required
